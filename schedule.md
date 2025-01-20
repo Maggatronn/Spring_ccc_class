@@ -118,16 +118,24 @@ nav_order: 2
 **Lecture 7 - March 17**
 - Conversation / Dialogue / Listening
 - Public opinion vs. public thought
-- Agency setting and dialogue design
+- Agency setting via prompt design and participant selection
+- Limitations of surveys, focus groups, town halls
+- Random selection vs. circles of trust
+- Gathering input vs. dialogue
+- Opinions vs. experiences
 
 {: .label .label-green }
 **Lab - March 17**
-- Designing Dialogue and Practicing Facilitation
+- Designing Dialogue, Recruitment, and Practicing Facilitation
 - **Assignment:**
-  - Complete dialogue script and recruitment plan
+  - Finish your dialogue script, conversation facilitation timeline, and recruitment plan
+  - Submit packet
 - **Readings:**
-  - Cramer's works on public opinion and ethnography
-  - Readings on listening and dialogue
+  - Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography
+  - Cramer (2007). Scrutinizing and Listening to Stories
+  - Cramer (2022). "Chapter 4: The qualitative study of public opinion"
+  - Mutz D. C. (2006). Benefits of hearing the other side
+  - Stains, Jr., R. (2014). Repairing the breach: The power of dialogue
 
 {: .warning }
 > **March 24 - Spring Break / Midterms Due**
@@ -136,34 +144,113 @@ nav_order: 2
 
 {: .label .label-blue }
 **Lecture 8 - March 31**
-- Sensemaking across conversations
+- Sensemaking to reveal and interpret patterns across conversations
 - Analytics vs. Sensemaking
+- Kathy Cramer's method
 - Qualitative research methods
+- Cross-pollination
+- Evolution of CCC approach
+- Human vs AI sensemaking
 
 {: .label .label-green }
 **Lab - March 31**
 - Kickoffs and Building Leadership Capacity
+- AI Sensemaking
 - **Assignment:**
-  - Hold your kickoffs
-  - Recruit new facilitators
+  - Hold your kickoffs! (first round of conversations at a public event)
+  - Recruit 1 new facilitator or leader to help with kickoff responsibilities
 
-## Week 9-14
+## Week 9
 
 {: .label .label-blue }
-**Lecture 9-14 - April 7 - May 12**
-- Various topics including:
-  - Creation and sharing of outputs
-  - Division of labor between people and AI
-  - Tech-enhanced listening/bridging/deliberation
-  - Tech-enhanced deliberation with guest lectures
-  - Final celebrations and reflections
+**Lecture 9 - April 7**
+- Creation and sharing of outputs based on sensemaking
 
 {: .label .label-green }
-**Labs - April 7 - May 12**
+**Lab - April 7**
 - Sensemaking
-- Sharing
-- Coaching through Challenges
-- Final Presentations
+- **Assignment:**
+  - Finish codebook development
+  - Finish highlighting and coding your conversations
 
-{: .note }
-> The final weeks include guest lectures (potentially including Audrey Tang) and focus on practical applications of concepts learned throughout the course. 
+{: .note-title }
+> Section 4: Case studies of tech-enhanced constructive communication
+>
+> This section examines real-world applications and case studies.
+
+## Week 10
+
+{: .label .label-blue }
+**Lecture 10 - April 14**
+- Division of labor between people and AI
+
+{: .label .label-green }
+**Lab - April 14**
+- Sharing
+- **Assignment:**
+  - Develop a plan for sharing these voices
+
+## Week 11
+
+{: .label .label-blue }
+**Lecture 11 - April 21**
+- Tech-enhanced listening/bridging/deliberation
+- Case studies:
+  - CCC/Cortico Freeport High school
+  - Madison Police
+  - Real Talk Boston
+  - OYN
+  - Frontline high school
+  - Oregon
+  - MIT student assemblies
+
+{: .label .label-green }
+**Lab - April 21**
+- Coaching through Challenges/Presentations
+- **Assignment:**
+  - Continue working on your final projects
+- **Readings:**
+  - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better
+  - Lafont, C. (2019). Democracy without Shortcuts
+  - Lippmann, W. (1919). The basic problem of democracy
+
+## Week 12
+
+{: .label .label-blue }
+**Lecture 12 - April 29**
+- Tech-enhanced deliberation: vTaiwan
+- Guest Lecturer: Audrey Tang (unconfirmed)
+
+{: .label .label-green }
+**Lab - April 29**
+- Coaching through Challenges/Presentations
+- **Assignment:**
+  - Continue working on your final projects
+- **Readings:**
+  - Claudia Chwalisz's note on AI-powered tech in democracy
+  - Excerpt from Plurality: The Future of Collaborative Technology and Democracy
+
+## Week 13
+
+{: .label .label-blue }
+**Lecture 13 - May 6**
+- Tech-enhanced conflict mediation
+- Guest Lecturer: Andrew Konya (unconfirmed)
+
+{: .label .label-green }
+**Lab - May 6**
+- Coaching through Challenges/Presentations
+- **Assignment:**
+  - Continue working on your final projects
+
+## Week 14
+
+{: .label .label-blue }
+**Lecture 14 - May 12**
+- Last Day of Class
+- Celebrations and Group Reflections
+
+{: .label .label-green }
+**Lab - May 12**
+- Final Presentations
+- Course Wrap-up 

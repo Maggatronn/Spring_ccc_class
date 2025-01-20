@@ -127,39 +127,74 @@
   },"18": {
     "doc": "Schedule",
     "title": "Week 7",
-    "content": "Lecture 7 - March 17 . | Conversation / Dialogue / Listening | Public opinion vs. public thought | Agency setting and dialogue design | . Lab - March 17 . | Designing Dialogue and Practicing Facilitation | Assignment: . | Complete dialogue script and recruitment plan | . | Readings: . | Cramer’s works on public opinion and ethnography | Readings on listening and dialogue | . | . March 24 - Spring Break / Midterms Due . ",
+    "content": "Lecture 7 - March 17 . | Conversation / Dialogue / Listening | Public opinion vs. public thought | Agency setting via prompt design and participant selection | Limitations of surveys, focus groups, town halls | Random selection vs. circles of trust | Gathering input vs. dialogue | Opinions vs. experiences | . Lab - March 17 . | Designing Dialogue, Recruitment, and Practicing Facilitation | Assignment: . | Finish your dialogue script, conversation facilitation timeline, and recruitment plan | Submit packet | . | Readings: . | Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography | Cramer (2007). Scrutinizing and Listening to Stories | Cramer (2022). “Chapter 4: The qualitative study of public opinion” | Mutz D. C. (2006). Benefits of hearing the other side | Stains, Jr., R. (2014). Repairing the breach: The power of dialogue | . | . March 24 - Spring Break / Midterms Due . ",
     "url": "/Spring_ccc_class/schedule.html#week-7",
     
     "relUrl": "/schedule.html#week-7"
   },"19": {
     "doc": "Schedule",
     "title": "Week 8",
-    "content": "Lecture 8 - March 31 . | Sensemaking across conversations | Analytics vs. Sensemaking | Qualitative research methods | . Lab - March 31 . | Kickoffs and Building Leadership Capacity | Assignment: . | Hold your kickoffs | Recruit new facilitators | . | . ",
+    "content": "Lecture 8 - March 31 . | Sensemaking to reveal and interpret patterns across conversations | Analytics vs. Sensemaking | Kathy Cramer’s method | Qualitative research methods | Cross-pollination | Evolution of CCC approach | Human vs AI sensemaking | . Lab - March 31 . | Kickoffs and Building Leadership Capacity | AI Sensemaking | Assignment: . | Hold your kickoffs! (first round of conversations at a public event) | Recruit 1 new facilitator or leader to help with kickoff responsibilities | . | . ",
     "url": "/Spring_ccc_class/schedule.html#week-8",
     
     "relUrl": "/schedule.html#week-8"
   },"20": {
     "doc": "Schedule",
-    "title": "Week 9-14",
-    "content": "Lecture 9-14 - April 7 - May 12 . | Various topics including: . | Creation and sharing of outputs | Division of labor between people and AI | Tech-enhanced listening/bridging/deliberation | Tech-enhanced deliberation with guest lectures | Final celebrations and reflections | . | . Labs - April 7 - May 12 . | Sensemaking | Sharing | Coaching through Challenges | Final Presentations | . The final weeks include guest lectures (potentially including Audrey Tang) and focus on practical applications of concepts learned throughout the course. ",
-    "url": "/Spring_ccc_class/schedule.html#week-9-14",
+    "title": "Week 9",
+    "content": "Lecture 9 - April 7 . | Creation and sharing of outputs based on sensemaking | . Lab - April 7 . | Sensemaking | Assignment: . | Finish codebook development | Finish highlighting and coding your conversations | . | . Section 4: Case studies of tech-enhanced constructive communication . This section examines real-world applications and case studies. ",
+    "url": "/Spring_ccc_class/schedule.html#week-9",
     
-    "relUrl": "/schedule.html#week-9-14"
+    "relUrl": "/schedule.html#week-9"
   },"21": {
+    "doc": "Schedule",
+    "title": "Week 10",
+    "content": "Lecture 10 - April 14 . | Division of labor between people and AI | . Lab - April 14 . | Sharing | Assignment: . | Develop a plan for sharing these voices | . | . ",
+    "url": "/Spring_ccc_class/schedule.html#week-10",
+    
+    "relUrl": "/schedule.html#week-10"
+  },"22": {
+    "doc": "Schedule",
+    "title": "Week 11",
+    "content": "Lecture 11 - April 21 . | Tech-enhanced listening/bridging/deliberation | Case studies: . | CCC/Cortico Freeport High school | Madison Police | Real Talk Boston | OYN | Frontline high school | Oregon | MIT student assemblies | . | . Lab - April 21 . | Coaching through Challenges/Presentations | Assignment: . | Continue working on your final projects | . | Readings: . | Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better | Lafont, C. (2019). Democracy without Shortcuts | Lippmann, W. (1919). The basic problem of democracy | . | . ",
+    "url": "/Spring_ccc_class/schedule.html#week-11",
+    
+    "relUrl": "/schedule.html#week-11"
+  },"23": {
+    "doc": "Schedule",
+    "title": "Week 12",
+    "content": "Lecture 12 - April 29 . | Tech-enhanced deliberation: vTaiwan | Guest Lecturer: Audrey Tang (unconfirmed) | . Lab - April 29 . | Coaching through Challenges/Presentations | Assignment: . | Continue working on your final projects | . | Readings: . | Claudia Chwalisz’s note on AI-powered tech in democracy | Excerpt from Plurality: The Future of Collaborative Technology and Democracy | . | . ",
+    "url": "/Spring_ccc_class/schedule.html#week-12",
+    
+    "relUrl": "/schedule.html#week-12"
+  },"24": {
+    "doc": "Schedule",
+    "title": "Week 13",
+    "content": "Lecture 13 - May 6 . | Tech-enhanced conflict mediation | Guest Lecturer: Andrew Konya (unconfirmed) | . Lab - May 6 . | Coaching through Challenges/Presentations | Assignment: . | Continue working on your final projects | . | . ",
+    "url": "/Spring_ccc_class/schedule.html#week-13",
+    
+    "relUrl": "/schedule.html#week-13"
+  },"25": {
+    "doc": "Schedule",
+    "title": "Week 14",
+    "content": "Lecture 14 - May 12 . | Last Day of Class | Celebrations and Group Reflections | . Lab - May 12 . | Final Presentations | Course Wrap-up | . ",
+    "url": "/Spring_ccc_class/schedule.html#week-14",
+    
+    "relUrl": "/schedule.html#week-14"
+  },"26": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/Spring_ccc_class/schedule.html",
     
     "relUrl": "/schedule.html"
-  },"22": {
+  },"27": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "/Spring_ccc_class/syllabus.html",
     
     "relUrl": "/syllabus.html"
-  },"23": {
+  },"28": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". Content coming soon… . ",
