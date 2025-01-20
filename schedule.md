@@ -82,12 +82,12 @@ nav_order: 2
 ## Week 5
 
 {: .label .label-blue }
-**Lecture 5 - March 3**
+**Lecture 5 - March 4**
 - Topic: Structure & Organization Democracy [teams]
 - Leadership development and Snowflake model
 
 {: .label .label-green }
-**Lab - March 3**
+**Lab - March 6**
 - Team Launch [Teams Now Formed]
 - **Assignment:**
   - Finish launching your team, submit your team-launch packet
@@ -101,12 +101,12 @@ nav_order: 2
 ## Week 6
 
 {: .label .label-blue }
-**Lecture 6 - March 11**
+**Lecture 6 - March 12**
 - Topic: Designing a Campaign (Strategy, Action)
 - Leadership development focus
 
 {: .label .label-green }
-**Lab - March 11**
+**Lab - March 14**
 - Designing your Conversation Campaign
 - **Assignment:**
   - Finish launching your campaign, submit campaign launch packet
@@ -115,7 +115,7 @@ nav_order: 2
 ## Week 7
 
 {: .label .label-blue }
-**Lecture 7 - March 17**
+**Lecture 7 - March 18**
 - Conversation / Dialogue / Listening
 - Public opinion vs. public thought
 - Agency setting via prompt design and participant selection
@@ -125,7 +125,7 @@ nav_order: 2
 - Opinions vs. experiences
 
 {: .label .label-green }
-**Lab - March 17**
+**Lab - March 20**
 - Designing Dialogue, Recruitment, and Practicing Facilitation
 - **Assignment:**
   - Finish your dialogue script, conversation facilitation timeline, and recruitment plan
@@ -143,7 +143,7 @@ nav_order: 2
 ## Week 8
 
 {: .label .label-blue }
-**Lecture 8 - March 31**
+**Lecture 8 - April 1**
 - Sensemaking to reveal and interpret patterns across conversations
 - Analytics vs. Sensemaking
 - Kathy Cramer's method
@@ -153,7 +153,7 @@ nav_order: 2
 - Human vs AI sensemaking
 
 {: .label .label-green }
-**Lab - March 31**
+**Lab - April 3**
 - Kickoffs and Building Leadership Capacity
 - AI Sensemaking
 - **Assignment:**
@@ -163,11 +163,11 @@ nav_order: 2
 ## Week 9
 
 {: .label .label-blue }
-**Lecture 9 - April 7**
+**Lecture 9 - April 8**
 - Creation and sharing of outputs based on sensemaking
 
 {: .label .label-green }
-**Lab - April 7**
+**Lab - April 10**
 - Sensemaking
 - **Assignment:**
   - Finish codebook development
@@ -181,11 +181,11 @@ nav_order: 2
 ## Week 10
 
 {: .label .label-blue }
-**Lecture 10 - April 14**
+**Lecture 10 - April 15**
 - Division of labor between people and AI
 
 {: .label .label-green }
-**Lab - April 14**
+**Lab - April 17**
 - Sharing
 - **Assignment:**
   - Develop a plan for sharing these voices
@@ -193,7 +193,7 @@ nav_order: 2
 ## Week 11
 
 {: .label .label-blue }
-**Lecture 11 - April 21**
+**Lecture 11 - April 22**
 - Tech-enhanced listening/bridging/deliberation
 - Case studies:
   - CCC/Cortico Freeport High school
@@ -205,7 +205,7 @@ nav_order: 2
   - MIT student assemblies
 
 {: .label .label-green }
-**Lab - April 21**
+**Lab - April 24**
 - Coaching through Challenges/Presentations
 - **Assignment:**
   - Continue working on your final projects
@@ -217,12 +217,12 @@ nav_order: 2
 ## Week 12
 
 {: .label .label-blue }
-**Lecture 12 - April 29**
+**Lecture 12 - April 20**
 - Tech-enhanced deliberation: vTaiwan
 - Guest Lecturer: Audrey Tang (unconfirmed)
 
 {: .label .label-green }
-**Lab - April 29**
+**Lab - May 1**
 - Coaching through Challenges/Presentations
 - **Assignment:**
   - Continue working on your final projects
@@ -233,12 +233,12 @@ nav_order: 2
 ## Week 13
 
 {: .label .label-blue }
-**Lecture 13 - May 6**
+**Lecture 13 - May 7**
 - Tech-enhanced conflict mediation
 - Guest Lecturer: Andrew Konya (unconfirmed)
 
 {: .label .label-green }
-**Lab - May 6**
+**Lab - May 9**
 - Coaching through Challenges/Presentations
 - **Assignment:**
   - Continue working on your final projects
@@ -246,11 +246,6 @@ nav_order: 2
 ## Week 14
 
 {: .label .label-blue }
-**Lecture 14 - May 12**
+**Lecture 14 - May 13**
 - Last Day of Class
 - Celebrations and Group Reflections
-
-{: .label .label-green }
-**Lab - May 12**
-- Final Presentations
-- Course Wrap-up 
